@@ -35,6 +35,6 @@ This project is designed for educational and personal use. Consider data privacy
 
 ---
 
-For detailed instructions, refer to our [Wiki](https://yaranaiotguru.in).
+For detailed instructions, refer to our [Yarana Iot Guru](https://yaranaiotguru.in).
 
 Happy Monitoring! 🌡️✉️
