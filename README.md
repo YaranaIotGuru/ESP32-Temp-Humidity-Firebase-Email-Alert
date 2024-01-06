@@ -21,13 +21,17 @@ Welcome to the ESP32 Temperature and Humidity Monitoring project! This project g
 
 Check out our [Video Tutorial](https://youtu.be/6nPXqQH5iNE) for a step-by-step guide on setting up and using this project.
 
+## Thumbnail:
+
+[![Project Thumbnail](https://yaranaiotguru.in/wp-content/uploads/2024/01/Humidity-Temperature-Monitoring-with-Firebase-and-Android-App.png)](https://youtu.be/6nPXqQH5iNE)
+
 ## Contributions:
 
 Contributions and improvements are encouraged! Feel free to submit pull requests or open issues.
 
 ## Project Showcase:
 
-Share your project on social media using #ESP32 #Firebase #IoT and let the community discover your innovative IoT climate monitoring solution.
+Share your project on social media using #ESP32 #Firebase #IoT, and let the community discover your innovative IoT climate monitoring solution.
 
 ## Disclaimer:
 
